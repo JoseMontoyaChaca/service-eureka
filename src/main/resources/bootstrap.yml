@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: service-eureka
+  cloud:
+    config:
+      uri: http://localhost:8081
+      username: JoseMontoyaChaca
+      password: Xavi4###
+      
+ 
+  
+      
+      
